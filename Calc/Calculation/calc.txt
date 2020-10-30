@@ -1,0 +1,16 @@
+Calculation
+
+int a, b;
+int result;
+char operC;
+double resultD;
+
+
+
+Process
+
+1. input a, input operC, input b
+2. loop
+3. switch "/", "*", "-", "+"
+4. display result.
+5. check operator whether or not it is correct.
